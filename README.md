@@ -31,4 +31,4 @@
 - Ссылка на работу: https://dewhitemold.github.io/russian-travel/
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
+<img src="https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg" alt="snake">
