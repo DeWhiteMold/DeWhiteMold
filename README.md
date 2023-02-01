@@ -31,4 +31,3 @@
 - Ссылка на работу: https://dewhitemold.github.io/russian-travel/
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dewhitemold&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-<img src="https://github.com/dewhitemold/github-readme/blob/output/github-contribution-snake.svg" alt="snake">
