@@ -29,3 +29,6 @@
 - Цель работы: создание адаптивной страницы
 - Технологии: CSS, Flex-box, Grid
 - Ссылка на работу: https://dewhitemold.github.io/russian-travel/
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
