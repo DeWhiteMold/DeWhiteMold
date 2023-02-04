@@ -9,7 +9,7 @@
 Уже применял на практике в учебных проектах: 
 **React.JS, JavaScript, REST API, HTML/CSS, Figma, Git и Webpack** 
 
-Самостоятелшьно изучил: 
+Самостоятельно изучил: 
 **SCSS, bootstap и WebSocket**.
 
 Точно изучу:
