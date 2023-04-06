@@ -6,17 +6,14 @@
 
 ## Мой стек:
 
-Уже применял на практике в учебных проектах: 
-**React.JS, JavaScript, REST API, HTML/CSS, Figma, Git и Webpack** 
-
-Самостоятельно изучил: 
-**SCSS, bootstap и WebSocket**.
+рименял на практике в учебных проектах: 
+**React.JS, JavaScript, REST API, WebSocket, HTML/CSS/SCSS, Figma, Node.JS, Express.JS, Mongo DB, Git и Webpack** 
 
 Точно изучу:
-**Node.JS, Express.JS, Mongo DB**.
+**TypeScript, React Native**.
 
 Что хочу изучить потом:
-**TypeScript**.
+**Redux**.
 
 ## Учебные проекты: 
 
