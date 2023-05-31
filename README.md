@@ -9,7 +9,7 @@
 рименял на практике в учебных проектах: 
 **React.JS, JavaScript, REST API, WebSocket, HTML/CSS/SCSS, Figma, Node.JS, Express.JS, Mongo DB, Git и Webpack** 
 
-Точно изучу:
+Изучаю:
 **TypeScript, React Native**.
 
 Что хочу изучить потом:
