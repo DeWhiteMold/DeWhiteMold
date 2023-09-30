@@ -2,12 +2,12 @@
 
 Самое лучшее в программировании для меня это "Aha!" moments.
 
-Сейчас на завершающем этапе обучения на курсах Яндекс.Практикум.
-
 ## Мой стек:
 
-рименял на практике в учебных проектах: 
-**React.JS, TypeScript, JavaScript, REST API, WebSocket, HTML/CSS/SCSS, Figma, Node.JS, Express.JS, Mongo DB, Git и Webpack** 
+**React.JS, TypeScript, JavaScript, REST API, WebSocket, HTML/CSS/SCSS, Docker, Figma, Git и Webpack** 
+
+Так же применял на практике в учебных проектах: 
+**Node.JS, Express.JS, Mongo DB** 
 
 Изучаю:
 **Redux, React Native**.
